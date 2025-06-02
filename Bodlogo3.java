@@ -8,7 +8,7 @@ class Adder extends Arithmetic{
 }
 //Write your code here
 
-public class Solution1{
+public class Bodlogo3{
     public static void main(String []args){
         // Create a new Adder object
         Adder a = new Adder();
