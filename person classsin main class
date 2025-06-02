@@ -1,6 +1,0 @@
-class main{
-public static void main(String[] args){
-Person person1 = new Person("galaa", 19);
-Person person2 = new Person("hulan", 54;)
-}
-}
