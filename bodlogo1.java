@@ -13,7 +13,7 @@ class Bird extends Animal{
     }
 }
 
-public class Solution{
+public class Bodlogo1{
 
    public static void main(String args[]){
 
